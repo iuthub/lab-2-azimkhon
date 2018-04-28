@@ -10,6 +10,7 @@
 .inheader {
 	border: 5px orange solid;
 	color : green;
+	background-color: red;
 }
 
 .content {
